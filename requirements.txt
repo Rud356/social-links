@@ -1,0 +1,8 @@
+flask~=1.1.2
+flask-uploads~=0.2.1
+fastjsonschema~=2.15.0
+flask-sqlalchemy~=2.5.1
+configframework~=2.0.7
+SQLAlchemy~=1.4.11
+MarkupSafe~=1.1.1
+requests~=2.25.1
